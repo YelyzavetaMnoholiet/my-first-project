@@ -1,2 +1,3 @@
 # my-first-project
-GoIT
+
+my first project GoIT
